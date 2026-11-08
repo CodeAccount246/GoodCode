@@ -1,0 +1,2 @@
+# GoodCode
+GoodCode
